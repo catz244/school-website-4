@@ -31,6 +31,8 @@ body{
 }
 .alumni{
     cursor: pointer;
+    margin-left: 200px;
+    
 }
 .modal-content{
     margin-top:100px;
